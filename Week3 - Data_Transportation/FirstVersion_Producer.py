@@ -44,7 +44,7 @@ if __name__ == '__main__':
     ccloud_lib.create_topic(conf, topic)
 
     delivered_records = 0
-# Optional per-message on_delivery handler (triggered by poll() or flush())
+    # Optional per-message on_delivery handler (triggered by poll() or flush())
     # when a message has been successfully delivered or
     # permanently failed delivery (after retries).
     def acked(err, msg):
