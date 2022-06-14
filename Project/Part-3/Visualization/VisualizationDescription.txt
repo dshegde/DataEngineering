@@ -1,0 +1,5 @@
+2 -  All outbound trips that occurred on route 65 on any Friday (you choose which Friday) between the hours of 4pm and 6pm.
+3 -  All outbound trips for route 65 on any Sunday morning (you choose which Sunday) between 9am and 11am.
+5a - Sensor Reading where the bus speed is maximum
+5b - Sensor Reading where the bus speed is minimum
+5c - Sensor Reading with top 100 bus speed
