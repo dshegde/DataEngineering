@@ -1,5 +1,0 @@
-requests
-certifi
-confluent-kafka[avro,json,protobuf]>=1.4.2
-pandas
-psycopg2-binary
